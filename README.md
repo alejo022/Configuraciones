@@ -81,3 +81,16 @@ sudo add-apt-repository 'deb [arch=amd64,arm64,ppc64el] http://sfo1.mirrors.digi
 # Host Virtuales Apache
 <p>sudo nano /etc/apache2/sites-available/000-default.conf</p>
 <p>sudo systemctl reload apache2</p>
+
+
+
+# Mejorar tamaño de imagenes 
+<p> Tiny PNG </p>
+
+
+# Retira metadatos de tus imágenes
+<p> Verexif </p>
+
+
+
+
